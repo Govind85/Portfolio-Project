@@ -1,0 +1,32 @@
+.container
+{
+   padding-top: 0px;
+   
+}
+.bg-danger{
+    text-align: center;
+    padding-top: 10px;
+    text-emphasis: 20px;
+    color: brown;
+    
+}
+.img-rounded{
+    align-self: auto;
+
+}
+.heading
+{
+    color: crimson;
+    text-emphasis: 80px;
+}
+.caption
+{
+    color: chocolate;
+    text-decoration-line: underline;
+    
+}
+.para{
+    text-emphasis: 90px;
+    color: indigo;
+   -ms-text-kashida-space: inherit;
+}
